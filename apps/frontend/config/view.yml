@@ -14,7 +14,7 @@ default:
 
   stylesheets:    [main.css, bootstrap, bootstrap-responsive, datepicker]
 
-  javascripts:    [jquery-1.7.2.min.js, bootstrap.min.js, bootstrap-alert, bootstrap-button, bootstrap-carousel, bootstrap-collapse, bootstrap-datepicker, bootstrap-dropdown, bootstrap-modal, bootstrap-popover, bootstrap-scrollspy, bootstrap-tab, bootstrap-tooltip, bootstrap-transition, bootstrap-typeahead, ]
+  javascripts:    [jquery-1.7.2.min.js, bootstrap.min.js, bootstrap-datepicker ]
 
   has_layout:     true
   layout:         layout
