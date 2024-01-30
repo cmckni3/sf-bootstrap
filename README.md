@@ -1,5 +1,11 @@
+# Symfony Bootstrap
+
 [![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)](https://img.shields.io/badge/project-unmaintained-red.svg)
 
-Just a symfony application with bootstrap
+## What's Included
 
-- Also has the sfGuardPlugin installed
+- [Bootstrap 2.x](https://getbootstrap.com/2.0.2)
+- sfPropelORMPlugin - Propel ORM 1.x symfony plugin
+- sfGuardPlugin
+
+[symfony 1.x documentation](https://symfony.com/legacy)
